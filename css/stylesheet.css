@@ -4,3 +4,96 @@ font-family: 'Jolly Lodger', cursive;
 font-size: 48px;
 
 }
+#header{
+height:50px;
+width:800px;
+background-color:green;
+text-align: center;
+border-radius: 10px;
+}
+
+#navbar{
+height:50px;
+width:800px;
+background-color:white;
+text-align: center;
+border-radius: 10px;
+}
+
+#navbar ul li a{
+text-decoration: none;
+}
+
+#navbar ul li{
+display:inline;
+}
+
+#footer{
+height:50px;
+width:800px;
+background-color:green;
+text-align: center;
+border-radius: 10px;
+}
+
+#aside{
+height:100%;
+width:30%;
+background-color:red;
+text-align: center;
+border-radius: 10px;
+
+}
+.article{
+height:100%;
+width:70%;
+text-align: center;
+background-color:blue;
+border-radius: 10px;
+
+}
+.section{
+height:100%;
+width:50%;
+text-align: center;
+background-color:green;
+border-radius: 10px;	
+}
+
+#content{
+height:200px;
+width:800px;
+text-align: center;
+}
+
+.float_left {
+float: left;
+}
+
+.float_right {
+float: right;
+}
+
+.clear_both{
+clear:both;
+}
+
+div{
+margin-bottom:10px;
+}
+
+/*
+un comment this to center stuff on the page
+*/
+html{
+display: table;
+margin:auto;
+}
+
+body{
+display: table-cell;
+vertical-align: middle;
+}
+
+html{
+background-image: url("http://t3.gstatic.com/images?q=tbn:ANd9GcRBlI-u-xfz7QevQcn9FGX0lVRsPyHeRGhpPJfxVnr5cVahlMuPIw")
