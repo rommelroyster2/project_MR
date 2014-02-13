@@ -1,7 +1,7 @@
 #header{
 height:100px;
 width:900px;
-background-color:Blue;
+background-color:#DA21FF;
 text-align: center;
 border-radius: 10px;
 }
@@ -25,15 +25,15 @@ display:inline;
 #footer{
 height:100px;
 width:900px;
-background-color:green;
+background-color:#3692FF;
 text-align: center;
 border-radius: 10px;
 }
 
 #aside{
-height:200%;
-width:30%;
-background-color:red;
+height:100%;
+width:100%;
+background-color:#DA21FF;
 text-align: center;
 border-radius: 10px;
 
@@ -41,8 +41,8 @@ border-radius: 10px;
 .article{
 height:100%;
 width:100%;
-text-align: right;
-background-color:blue;
+text-align: center;
+background-color:#3692FF;
 border-radius: 10px;
 
 }
@@ -61,7 +61,7 @@ text-align: center;
 }
 
 .float_left {
-float: left;
+float: right;
 }
 
 .float_right {
@@ -87,4 +87,5 @@ margin:auto;
 body{
 display: table-cell;
 vertical-align: middle;
+background-image:url(http://t2.gstatic.com/images?q=tbn:ANd9GcSURktl38NKGVh7m8KecUfUkdQ14V4HLGWfYqJ9S8T6-DFwbm5M);
 }
