@@ -31,10 +31,10 @@ border-radius: 10px;
 }
 
 #aside{
-height:100%;
+height:150%;
 width:100%;
 background-color:#DA21FF;
-text-align: center;
+text-align: left;
 border-radius: 10px;
 
 }
@@ -88,4 +88,8 @@ body{
 display: table-cell;
 vertical-align: middle;
 background-image:url(http://t2.gstatic.com/images?q=tbn:ANd9GcSURktl38NKGVh7m8KecUfUkdQ14V4HLGWfYqJ9S8T6-DFwbm5M);
+}
+img{
+	height: 150px;
+	float: right;
 }
